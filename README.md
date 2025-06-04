@@ -1,6 +1,6 @@
 Setup 
 
-1. Install Next.js
+Install Next.js
 
     npx create-next-app@latest my-app
 
@@ -9,7 +9,7 @@ Install Supabase Client
     cd my-app
     npm install @supabase/supabase-js
 
-3.	Create Environment File
+Create Environment File
 
     touch .env.local
 
