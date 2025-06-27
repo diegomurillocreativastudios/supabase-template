@@ -1,0 +1,51 @@
+﻿partner;location;customer;provider;service;mrc;pct;createdAt
+Partner C;456 Oak Rd;Globex;Provider C;Cleaning;18.35;1.9;2025-05-30 19:38:47
+Partner A;321 Maple Dr;Umbrella;Provider A;Support;17.09;4.75;2025-06-06 11:20:08
+Partner C;654 Birch Blvd;Globex;Provider A;Cleaning;69.51;11.71;2025-06-24 23:21:57
+Partner D;789 Pine Ave;Initech;Provider C;Hosting;43.32;3.54;2025-06-18 08:17:20
+Partner A;654 Birch Blvd;Globex;Provider E;Hosting;24.71;6;2025-05-28 10:32:28
+Partner B;789 Pine Ave;Acme Corp;Provider B;Cleaning;82.45;6.32;2025-06-25 00:18:27
+Partner C;456 Oak Rd;Initech;Provider D;Support;22.86;2.52;2025-06-03 13:42:47
+Partner E;321 Maple Dr;Umbrella;Provider D;Consulting;29.74;14.96;2025-06-10 16:11:15
+Partner A;123 Elm St;Globex;Provider B;Support;63.68;6.08;2025-06-07 16:43:47
+Partner E;123 Elm St;Acme Corp;Provider E;Consulting;79.17;5.43;2025-06-17 18:06:34
+Partner A;789 Pine Ave;Umbrella;Provider B;Development;92.14;13.12;2025-06-17 10:44:25
+Partner B;456 Oak Rd;Soylent;Provider B;Development;95.81;13.88;2025-05-29 06:38:43
+Partner D;123 Elm St;Acme Corp;Provider C;Consulting;31.55;3.99;2025-06-09 05:11:17
+Partner D;123 Elm St;Umbrella;Provider B;Hosting;69.38;14.23;2025-06-21 22:43:08
+Partner E;321 Maple Dr;Globex;Provider E;Hosting;74.17;6.29;2025-06-05 10:53:35
+Partner E;321 Maple Dr;Acme Corp;Provider B;Hosting;15.76;0.8;2025-06-09 23:39:49
+Partner A;123 Elm St;Acme Corp;Provider B;Cleaning;91.49;12.96;2025-06-24 15:01:46
+Partner D;456 Oak Rd;Umbrella;Provider B;Development;61.86;4.02;2025-06-11 18:04:57
+Partner A;321 Maple Dr;Soylent;Provider D;Support;52.03;11.07;2025-06-05 10:35:57
+Partner A;321 Maple Dr;Soylent;Provider A;Hosting;27.24;8.28;2025-06-22 18:05:46
+Partner D;456 Oak Rd;Acme Corp;Provider D;Development;18.81;9.96;2025-06-10 07:11:04
+Partner B;456 Oak Rd;Initech;Provider D;Support;29.24;6.32;2025-06-26 01:53:03
+Partner D;789 Pine Ave;Initech;Provider C;Support;72.69;11.09;2025-06-01 13:34:18
+Partner D;456 Oak Rd;Globex;Provider C;Hosting;97.18;8.9;2025-06-10 05:29:43
+Partner A;123 Elm St;Umbrella;Provider D;Development;92.74;8.2;2025-06-25 15:11:09
+Partner B;123 Elm St;Umbrella;Provider A;Hosting;46.34;14.15;2025-06-08 23:39:25
+Partner A;654 Birch Blvd;Acme Corp;Provider D;Development;60.87;5.09;2025-06-19 00:34:18
+Partner C;456 Oak Rd;Soylent;Provider D;Hosting;70.45;4.85;2025-06-17 05:16:34
+Partner E;654 Birch Blvd;Acme Corp;Provider A;Development;29.18;4.35;2025-05-28 19:20:59
+Partner B;789 Pine Ave;Soylent;Provider B;Support;85.04;10.7;2025-06-07 10:44:03
+Partner E;789 Pine Ave;Acme Corp;Provider B;Consulting;20.39;2.05;2025-06-10 02:59:45
+Partner E;456 Oak Rd;Soylent;Provider B;Consulting;55.49;4.14;2025-05-29 06:11:23
+Partner D;789 Pine Ave;Acme Corp;Provider A;Consulting;79.4;9.74;2025-06-19 01:29:35
+Partner E;321 Maple Dr;Umbrella;Provider A;Cleaning;16.77;13.31;2025-05-30 02:43:01
+Partner C;654 Birch Blvd;Umbrella;Provider B;Support;21.47;4.97;2025-05-30 05:19:41
+Partner B;456 Oak Rd;Acme Corp;Provider C;Development;89.57;6.39;2025-06-07 08:07:04
+Partner B;456 Oak Rd;Globex;Provider D;Cleaning;26.14;13.91;2025-06-01 17:25:21
+Partner B;789 Pine Ave;Globex;Provider A;Support;88.5;12.95;2025-06-20 00:24:05
+Partner D;789 Pine Ave;Soylent;Provider B;Hosting;12.13;3.3;2025-06-16 22:21:59
+Partner C;789 Pine Ave;Umbrella;Provider D;Development;39.8;0.9;2025-05-29 23:05:26
+Partner C;123 Elm St;Acme Corp;Provider E;Support;41.11;11.9;2025-06-13 11:44:56
+Partner D;654 Birch Blvd;Globex;Provider C;Cleaning;73.79;0.52;2025-05-28 13:33:17
+Partner B;789 Pine Ave;Initech;Provider A;Consulting;66.08;10.12;2025-06-23 07:19:44
+Partner E;789 Pine Ave;Initech;Provider C;Support;72.75;8.54;2025-06-20 17:34:39
+Partner B;654 Birch Blvd;Umbrella;Provider C;Support;59.31;0.51;2025-06-18 00:49:13
+Partner E;654 Birch Blvd;Soylent;Provider D;Support;49.79;3.6;2025-06-11 08:06:21
+Partner A;789 Pine Ave;Umbrella;Provider E;Consulting;18.4;14.3;2025-06-19 09:57:49
+Partner B;456 Oak Rd;Acme Corp;Provider A;Hosting;98.55;9.36;2025-06-03 04:47:37
+Partner E;456 Oak Rd;Initech;Provider D;Support;31.96;10.01;2025-06-27 03:27:36
+Partner B;456 Oak Rd;Umbrella;Provider D;Cleaning;60.17;13.8;2025-06-23 17:08:12
